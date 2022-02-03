@@ -2,7 +2,7 @@
 
 The EditControl is a powerful text editor control to create interactive code editor applications with its unique feature set. It has many efficient features such as editing, syntax highlighting, text indentation, intellisense, expand or collapse a block of code, and custom language configuration as in Microsoft Visual Studio Editor.
 
-![](Images/SyntaxEditor_Output.PNG)
+![](Images/SyntaxEditor_Output.png)
 
 For know more about SyntaxEditor : https://www.syncfusion.com/winforms-ui-controls/syntax-editor
 
