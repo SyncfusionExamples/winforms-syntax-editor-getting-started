@@ -171,8 +171,6 @@ Change the background color of selected text in the control.
 
 Users can customize the background color of the control and also use gradient effects.
 
-* [See also WinForms Syntax Editor with rich ui documentation](https://help.syncfusion.com/windowsforms/syntax-editor/appearance)
-
 ## Customize the end-of-line character
 
 Users can customize the end-of-line characters and choose to show or hide them.
@@ -180,8 +178,6 @@ Users can customize the end-of-line characters and choose to show or hide them.
 ## Style
 
 Use a rich set of built-in themes inspired by popular interfaces such as Visual Studio, Microsoft Office, and Expression Blend.
-
-* [learn more](https://help.syncfusion.com/windowsforms/syntax-editor/style)
 
 ## Globalization and localization
 
